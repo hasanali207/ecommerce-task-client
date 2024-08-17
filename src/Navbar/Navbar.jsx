@@ -22,7 +22,7 @@ export default function Navbar() {
       
 
       {/* navbar */}
-      <nav className="relative">
+      <nav className="relative border-b border-gray-400 mb-2">
         <div className="container px-6 py-4 mx-auto md:flex md:justify-between md:items-center">
           <div className="flex items-center justify-between">
            <Link to="/"> <h2 className="text-3xl text-black font-medium">
