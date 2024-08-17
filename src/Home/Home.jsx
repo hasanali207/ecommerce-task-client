@@ -44,8 +44,8 @@ const Home = () => {
   return (
     <div>
       <div className="">
-        <h1 className="text-2xl sm:text-3xl lg:text-4xl p-6 lg:p-14 font-normal text-center mb-6 lg:mb-10 text-white">
-          <span className="text-black">All Products</span>
+        <h1 className="text-2xl sm:text-3xl lg:text-4xl p-6 lg:p-6 font-medium text-center mb-6 ">
+        All Products
         </h1>
       </div>
 
