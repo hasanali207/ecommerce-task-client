@@ -25,9 +25,9 @@ export default function Navbar() {
       <nav className="relative">
         <div className="container px-6 py-4 mx-auto md:flex md:justify-between md:items-center">
           <div className="flex items-center justify-between">
-            <h2 className="text-3xl text-black font-medium">
+           <Link to="/"> <h2 className="text-3xl text-black font-medium">
               RealTechIt
-            </h2>
+            </h2></Link>
 
             {/* Mobile menu button */}
             <div className="flex lg:hidden">
