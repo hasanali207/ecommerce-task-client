@@ -1,91 +1,72 @@
 import React from 'react';
-import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from 'react-icons/fa';
 
 const Footer = () => {
   return (
-    <footer className="bg-black  text-white ">
-      <div className="container p-6 mx-auto">
-        <div className="lg:flex">
-          {/* Logo and Description Section */}
-          <div className="w-full -mx-6 lg:w-2/5">
-            <div className="px-6">
-              <a href="#">
-              <h2 className=' text-4xl text-[#22c55e] font-medium'>GRIPPABLE</h2>
-              </a>
-
-              <p className="max-w-sm mt-2  text-gray-500 dark:text-gray-400">
-              We are committed to providing the best products with top-notch customer service. Our goal is to offer high-quality products that meet your needs and exceed your expectations.
-              </p>
-
-              <div className="flex mt-6 -mx-2">
-                <a href="#" className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400" aria-label="Reddit">
-                  <FaLinkedin></FaLinkedin>
-                </a>
-
-                <a href="#" className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400" aria-label="Facebook">
-                  <FaInstagram></FaInstagram>
-                </a>
-                <a href="#" className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400" aria-label="Facebook">
-                  <FaFacebook></FaFacebook>
-                </a>
-                <a href="#" className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"  aria-label="Facebook">
-                <FaTwitter></FaTwitter>
-                </a>
-              </div>
-            </div>
-          </div>
-
-          {/* Navigation Section */}
-          <div className="w-full mt-8 lg:w-3/5 lg:mt-0 lg:ml-16">
-            <div className="flex flex-wrap">
-              <div className="w-full md:w-1/2 lg:w-1/4">
-                <h4 className="text-lg font-semibold text-gray-900 dark:text-gray-100">Company</h4>
-                <ul className="mt-4">
-                  <li><a href="#" className="block py-1 text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">About</a></li>
-                  <li><a href="#" className="block py-1 text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">Contact</a></li>
-                  <li><a href="#" className="block py-1 text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">Careers</a></li>
-                </ul>
-              </div>
-
-              <div className="w-full md:w-1/2 lg:w-1/4">
-                <h4 className="text-lg font-semibold text-gray-900 dark:text-gray-100">Products</h4>
-                <ul className="mt-4">
-                  <li><a href="#" className="block py-1 text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">Feaures</a></li>
-                  <li><a href="#" className="block py-1 text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">Integrations</a></li>
-                  <li><a href="#" className="block py-1 text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">Pricing</a></li>
-                </ul>
-              </div>
-
-              <div className="w-full md:w-1/2 lg:w-1/4">
-                <h4 className="text-lg font-semibold text-gray-900 dark:text-gray-100">Blog</h4>
-                <ul className="mt-4">
-                  <li><a href="#" className="block py-1 text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">Latest Posts</a></li>
-                  <li><a href="#" className="block py-1 text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">Categories</a></li>
-                </ul>
-              </div>
-
-              <div className="w-full md:w-1/2 lg:w-1/4">
-                <h4 className="text-lg font-semibold text-gray-900 dark:text-gray-100">Contact</h4>
-                <ul className="mt-4">
-                  <li><a href="#" className="block py-1 text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">Support</a></li>
-                  <li><a href="#" className="block py-1 text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">FAQ</a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* Footer Bottom Section */}
-        <div className="flex flex-col items-center justify-between pt-6 mt-12 border-t border-gray-200 dark:border-gray-700 sm:flex-row">
-          <p className="text-sm text-gray-600 dark:text-gray-400">© 2024 GRIPPABLE. All Rights Reserved.</p>
-          <div className="mt-4 sm:mt-0">
-            <a href="#" className="text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">Privacy Policy</a>
-            <span className="mx-2 text-gray-400">|</span>
-            <a href="#" className="text-gray-600 transition-colors duration-300 dark:text-gray-400 hover:text-blue-500 dark:hover:text-blue-400">Terms of Service</a>
-          </div>
-        </div>
-      </div>
-    </footer>
+    <footer className="px-4 divide-y bg-gray-800 text-gray-100">
+	<div className="container flex flex-col justify-between py-10 mx-auto space-y-8 lg:flex-row lg:space-y-0">
+		<div className="lg:w-1/3">
+			<a rel="noopener noreferrer" href="#" className="flex justify-center space-x-3 lg:justify-start">
+				<div className="flex items-center justify-center w-12 h-12 rounded-full bg-violet-400">
+					
+				</div>
+				<span className="self-center text-2xl font-semibold">RealTechIt</span>
+			</a>
+		</div>
+		<div className="grid grid-cols-2 text-sm gap-x-3 gap-y-8 lg:w-2/3 sm:grid-cols-4">
+			<div className="space-y-3">
+				<h3 className="tracking-wide uppercase text-gray-50">Product</h3>
+				<ul className="space-y-1">
+					<li>
+						<a rel="noopener noreferrer" href="#">Features</a>
+					</li>
+					<li>
+						<a rel="noopener noreferrer" href="#">Integrations</a>
+					</li>
+					<li>
+						<a rel="noopener noreferrer" href="#">Pricing</a>
+					</li>
+					<li>
+						<a rel="noopener noreferrer" href="#">FAQ</a>
+					</li>
+				</ul>
+			</div>
+			<div className="space-y-3">
+				<h3 className="tracking-wide uppercase text-gray-50">Company</h3>
+				<ul className="space-y-1">
+					<li>
+						<a rel="noopener noreferrer" href="#">Privacy</a>
+					</li>
+					<li>
+						<a rel="noopener noreferrer" href="#">Terms of Service</a>
+					</li>
+				</ul>
+			</div>
+			<div className="space-y-3">
+				<h3 className="uppercase text-gray-50">Developers</h3>
+				<ul className="space-y-1">
+					<li>
+						<a rel="noopener noreferrer" href="#">Public API</a>
+					</li>
+					<li>
+						<a rel="noopener noreferrer" href="#">Documentation</a>
+					</li>
+					<li>
+						<a rel="noopener noreferrer" href="#">Guides</a>
+					</li>
+				</ul>
+			</div>
+			<div className="space-y-3">
+				<div className="uppercase text-gray-50">Social media</div>
+				<div className="flex justify-start space-x-3">
+				
+					
+				
+				</div>
+			</div>
+		</div>
+	</div>
+	<div className="py-6 text-sm text-center text-gray-400">© 2024 hasandevpro.com All rights reserved.</div>
+</footer>
   );
 };
 
