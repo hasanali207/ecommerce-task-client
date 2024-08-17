@@ -1,0 +1,299 @@
+[
+    {
+      "name": "iPhone 14 Pro",
+      "image": "https://i.ibb.co/SPrh4Cm/1710483363cl-KJ8.webp",
+      "description": "Apple iPhone 14 Pro with A16 Bionic chip and 6.1-inch Super Retina XDR display.",
+      "price": 999,
+      "category": "Mobile Phone",
+      "ratings": 4.8
+    },
+    {
+      "name": "Samsung Galaxy S23",
+      "image": "https://i.ibb.co/ZJgMp13/1712479105mf-DQa.webp",
+      "description": "Samsung Galaxy S23 with Snapdragon 8 Gen 2 processor and 6.2-inch Dynamic AMOLED display.",
+      "price": 899,
+      "category": "Mobile Phone",
+      "ratings": 4.7
+    },
+    {
+      "name": "Google Pixel 7",
+      "image": "https://i.ibb.co/DfR5Zh2/17104801950p091.webp",
+      "description": "Google Pixel 7 with Google Tensor G2 chip and 6.3-inch OLED display.",
+      "price": 799,
+      "category": "Mobile Phone",
+      "ratings": 4.6
+    },
+    {
+      "name": "OnePlus 11",
+      "image": "https://i.ibb.co/7t6f8rk/1710753241356b-M.webp",
+      "description": "OnePlus 11 with Snapdragon 8 Gen 2 processor and 6.7-inch Fluid AMOLED display.",
+      "price": 729,
+      "category": "Mobile Phone",
+      "ratings": 4.5
+    },
+    {
+      "name": "Sony Xperia 1 IV",
+      "image": "https://i.ibb.co/SyD2RXd/apple-iphone-15-pro-max-natural-titanium-official-image.webp",
+      "description": "Sony Xperia 1 IV with Snapdragon 8 Gen 1 processor and 6.5-inch 4K HDR OLED display.",
+      "price": 999,
+      "category": "Mobile Phone",
+      "ratings": 4.4
+    },
+    {
+      "name": "Asus ROG Phone 6",
+      "image": "https://i.ibb.co/BV4tRZV/google-pixel-7-pro-obsidian-official-image.webp",
+      "description": "Asus ROG Phone 6 with Snapdragon 8+ Gen 1 processor and 6.78-inch AMOLED display.",
+      "price": 1099,
+      "category": "Mobile Phone",
+      "ratings": 4.7
+    },
+    {
+      "name": "Apple iPhone 13 Mini",
+      "image": "https://i.ibb.co/nMqhLZY/google-pixel-9-peony-official-image.webp",
+      "description": "Apple iPhone 13 Mini with A15 Bionic chip and 5.4-inch Super Retina XDR display.",
+      "price": 699,
+      "category": "Mobile Phone",
+      "ratings": 4.6
+    },
+    {
+      "name": "Samsung Galaxy Z Flip 4",
+      "image": "https://i.ibb.co/ZTZjvLn/google-pixel-9-pro-fold-porcelain.webp",
+      "description": "Samsung Galaxy Z Flip 4 with Snapdragon 8+ Gen 1 processor and 6.7-inch Foldable Dynamic AMOLED display.",
+      "price": 999,
+      "category": "Mobile Phone",
+      "ratings": 4.6
+    },
+    {
+      "name": "Google Pixel 6a",
+      "image": "https://i.ibb.co/7VW8B8c/Google-Pixel-9-Pro-Porcelain-120x120.webp",
+      "description": "Google Pixel 6a with Google Tensor chip and 6.1-inch OLED display.",
+      "price": 449,
+      "category": "Mobile Phone",
+      "ratings": 4.4
+    },
+    {
+      "name": "OnePlus Nord 2T",
+      "image": "https://i.ibb.co/SPz1kgJ/google-pixel-9-pro-porcelain-official-image.webp",
+      "description": "OnePlus Nord 2T with MediaTek Dimensity 1300 processor and 6.43-inch Fluid AMOLED display.",
+      "price": 529,
+      "category": "Mobile Phone",
+      "ratings": 4.5
+    },
+    {
+      "name": "Sony Xperia 5 III",
+      "image": "https://i.ibb.co/4RR7XmZ/Google-Pixel-9-Pro-XL-Hazel-120x120.webp",
+      "description": "Sony Xperia 5 III with Snapdragon 888 processor and 6.1-inch OLED display.",
+      "price": 899,
+      "category": "Mobile Phone",
+      "ratings": 4.3
+    },
+    {
+      "name": "Asus Zenfone 9",
+      "image": "https://i.ibb.co/C65gT8f/google-pixel-9-pro-xl-porcelain-image.webp",
+      "description": "Asus Zenfone 9 with Snapdragon 8+ Gen 1 processor and 5.9-inch AMOLED display.",
+      "price": 799,
+      "category": "Mobile Phone",
+      "ratings": 4.4
+    },
+    {
+      "name": "Apple iPhone 12",
+      "image": "https://i.ibb.co/VgrJnmr/Honor-Magic-V3-Green-120x120.webp",
+      "description": "Apple iPhone 12 with A14 Bionic chip and 6.1-inch Super Retina XDR display.",
+      "price": 599,
+      "category": "Mobile Phone",
+      "ratings": 4.5
+    },
+    {
+      "name": "Samsung Galaxy Note 20 Ultra",
+      "image": "https://i.ibb.co/CMbKY1Y/Itel-A50-C-Dawn-Blue-300x300.webp",
+      "description": "Samsung Galaxy Note 20 Ultra with Snapdragon 865+ processor and 6.9-inch Dynamic AMOLED display.",
+      "price": 1199,
+      "category": "Mobile Phone",
+      "ratings": 4.6
+    },
+    {
+      "name": "Google Pixel 5",
+      "image": "https://i.ibb.co/d42yW1h/itel-a50c-dawn-blue-official-image.webp",
+      "description": "Google Pixel 5 with Snapdragon 765G processor and 6.0-inch OLED display.",
+      "price": 499,
+      "category": "Mobile Phone",
+      "ratings": 4.3
+    },
+    {
+      "name": "OnePlus 9 Pro",
+      "image": "https://i.ibb.co/QFpjDKB/Itel-A50-Lime-Green-300x300.webp",
+      "description": "OnePlus 9 Pro with Snapdragon 888 processor and 6.7-inch Fluid AMOLED display.",
+      "price": 899,
+      "category": "Mobile Phone",
+      "ratings": 4.4
+    },
+    {
+      "name": "Sony Xperia 10 IV",
+      "image": "https://i.ibb.co/VqqxK2p/Motorola-Edge-50-Ultra-Nordic-Wood-300x300.webp",
+      "description": "Sony Xperia 10 IV with Snapdragon 690 processor and 6.0-inch OLED display.",
+      "price": 429,
+      "category": "Mobile Phone",
+      "ratings": 4.2
+    },
+    {
+      "name": "Xiaomi 12 Pro",
+      "image": "https://i.ibb.co/gvYwRmc/motorola-edge-50-ultra-official-image.webp",
+      "description": "Xiaomi 12 Pro with Snapdragon 8 Gen 1 processor and 6.73-inch AMOLED display.",
+      "price": 849,
+      "category": "Mobile Phone",
+      "ratings": 4.5
+    },
+    {
+      "name": "Oppo Find X5 Pro",
+      "image": "https://i.ibb.co/KXgyX3v/Motorola-Moto-G84-Viva-Magenta-300x300.webp",
+      "description": "Oppo Find X5 Pro with Snapdragon 8 Gen 1 processor and 6.7-inch AMOLED display.",
+      "price": 1099,
+      "category": "Mobile Phone",
+      "ratings": 4.6
+    },
+    {
+      "name": "Vivo X80 Pro",
+      "image": "https://i.ibb.co/qyQb7mJ/Motorola-Moto-G85-Cobalt-Blue-300x300.webp",
+      "description": "Vivo X80 Pro with Snapdragon 8 Gen 1 processor and 6.78-inch AMOLED display.",
+      "price": 999,
+      "category": "Mobile Phone",
+      "ratings": 4.5
+    },
+    {
+      "name": "Huawei P50 Pro",
+      "image": "https://i.ibb.co/3z0PLvW/motorola-moto-g85-cobalt-blue-official-image.webp",
+      "description": "Huawei P50 Pro with Kirin 9000 processor and 6.6-inch OLED display.",
+      "price": 1199,
+      "category": "Mobile Phone",
+      "ratings": 4.6
+    },
+    {
+      "name": "Nokia XR20",
+      "image": "https://i.ibb.co/grjhg6z/Nothing-CMF-Phone-1-Orange-300x300.webp",
+      "description": "Nokia XR20 with Snapdragon 480 processor and 6.67-inch IPS LCD display.",
+      "price": 549,
+      "category": "Mobile Phone",
+      "ratings": 4.3
+    },
+    {
+      "name": "Realme GT 2 Pro",
+      "image": "https://i.ibb.co/KV216wk/nothing-cmf-phone-1-orange-official-image.webp",
+      "description": "Realme GT 2 Pro with Snapdragon 8 Gen 1 processor and 6.7-inch AMOLED display.",
+      "price": 749,
+      "category": "Mobile Phone",
+      "ratings": 4.4
+    },
+    {
+      "name": "Honor Magic 4 Pro",
+      "image": "https://i.ibb.co/P6hXkth/oppo-reno12-f-4g-amber-orange-official-image.webp",
+      "description": "Honor Magic 4 Pro with Snapdragon 8 Gen 1 processor and 6.81-inch OLED display.",
+      "price": 999,
+      "category": "Mobile Phone",
+      "ratings": 4.5
+    },
+    {
+      "name": "ZTE Axon 40 Ultra",
+      "image": "https://i.ibb.co/P6hXkth/oppo-reno12-f-4g-amber-orange-official-image.webp",
+      "description": "ZTE Axon 40 Ultra with Snapdragon 8 Gen 1 processor and 6.8-inch AMOLED display.",
+      "price": 799,
+      "category": "Mobile Phone",
+      "ratings": 4.5
+    },
+    {
+      "name": "Motorola Edge 30 Pro",
+      "image": "hhttps://i.ibb.co/qx7ZHB4/Oppo-Reno12-F-4-G-Olive-Green-300x300.webp",
+      "description": "Motorola Edge 30 Pro with Snapdragon 8 Gen 1 processor and 6.7-inch AMOLED display.",
+      "price": 699,
+      "category": "Mobile Phone",
+      "ratings": 4.4
+    },
+    {
+      "name": "Samsung Galaxy A53 5G",
+      "image": "https://i.ibb.co/5KXDs10/Realme-GT-6-Silver-300x300.webp",
+      "description": "Samsung Galaxy A53 5G with Exynos 1280 processor and 6.5-inch Super AMOLED display.",
+      "price": 449,
+      "category": "Mobile Phone",
+      "ratings": 4.3
+    },
+    {
+      "name": "iPhone SE (2022)",
+      "image": "https://i.ibb.co/Nm0dQnM/realme-gt-6t-razor-green-official-image.webp",
+      "description": "Apple iPhone SE (2022) with A15 Bionic chip and 4.7-inch Retina HD display.",
+      "price": 429,
+      "category": "Mobile Phone",
+      "ratings": 4.4
+    },
+    {
+      "name": "Vivo V23 5G",
+      "image": "https://i.ibb.co/rHhNR3D/Samsung-Galaxy-A06-Blue-300x300.webp",
+      "description": "Vivo V23 5G with MediaTek Dimensity 920 processor and 6.44-inch AMOLED display.",
+      "price": 499,
+      "category": "Mobile Phone",
+      "ratings": 4.3
+    },
+    {
+      "name": "Oppo Reno7 Pro 5G",
+      "image": "https://i.ibb.co/nD22qqn/samsung-galaxy-m14-4g-arctic-blue-official-image.webp",
+      "description": "Oppo Reno7 Pro 5G with MediaTek Dimensity 1200-Max processor and 6.55-inch AMOLED display.",
+      "price": 699,
+      "category": "Mobile Phone",
+      "ratings": 4.4
+    },
+    {
+      "name": "Xiaomi Mi 11 Lite 5G NE",
+      "image": "https://i.ibb.co/XVGpM7q/samsung-galaxy-m53-blue-official-image.webp",
+      "description": "Xiaomi Mi 11 Lite 5G NE with Snapdragon 778G processor and 6.55-inch AMOLED display.",
+      "price": 449,
+      "category": "Mobile Phone",
+      "ratings": 4.2
+    },
+    {
+      "name": "Realme 9 Pro+",
+      "image": "https://i.ibb.co/J72jnVj/samsung-galaxy-s23-ultra-green-official-image.webp",
+      "description": "Realme 9 Pro+ with MediaTek Dimensity 920 processor and 6.4-inch Super AMOLED display.",
+      "price": 399,
+      "category": "Mobile Phone",
+      "ratings": 4.3
+    },
+    {
+      "name": "Honor 50",
+      "image": "https://i.ibb.co/z7stK6p/samsung-galaxy-s24-ultra-titanium-gray-official-image.webp",
+      "description": "Honor 50 with Snapdragon 778G processor and 6.57-inch OLED display.",
+      "price": 529,
+      "category": "Mobile Phone",
+      "ratings": 4.4
+    },
+    {
+      "name": "Motorola Moto G200 5G",
+      "image": "https://i.ibb.co/313cJNc/samsung-galaxy-z-flip6-yellow-official-image-1.webp",
+      "description": "Motorola Moto G200 5G with Snapdragon 888+ processor and 6.8-inch LCD display.",
+      "price": 499,
+      "category": "Mobile Phone",
+      "ratings": 4.2
+    },
+    {
+      "name": "Xiaomi Redmi Note 11 Pro+ 5G",
+      "image": "https://i.ibb.co/JH8JrHv/Samsung-Galaxy-Z-Fold6-Silver-Shadow-120x120.webp",
+      "description": "Xiaomi Redmi Note 11 Pro+ 5G with MediaTek Dimensity 920 processor and 6.67-inch AMOLED display.",
+      "price": 399,
+      "category": "Mobile Phone",
+      "ratings": 4.3
+    },
+    {
+      "name": "Samsung Galaxy M52 5G",
+      "image": "https://i.ibb.co/rZgQmfW/Symphony-G27-300x300.webp",
+      "description": "Samsung Galaxy M52 5G with Snapdragon 778G processor and 6.7-inch Super AMOLED display.",
+      "price": 349,
+      "category": "Mobile Phone",
+      "ratings": 4.3
+    },
+    {
+      "name": "Infinix Zero Ultra",
+      "image": "https://i.ibb.co/crmT9hk/symphony-g100-official-black-image-2.webp",
+      "description": "Infinix Zero Ultra with MediaTek Dimensity 920 processor and 6.8-inch AMOLED display.",
+      "price": 499,
+      "category": "Mobile Phone",
+      "ratings": 4.4
+    }
+  ]
+  
