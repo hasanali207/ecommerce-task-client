@@ -110,7 +110,7 @@ const Home = () => {
               >
                 <div className="relative">
                   <img
-                    className="w-full h-40 sm:h-56 object-cover"
+                    className="w-full h-40 sm:h-56 object-fit"
                     src={product.image}
                     alt={product.name}
                   />
@@ -123,18 +123,18 @@ const Home = () => {
                   <p className="text-gray-600 mb-4">{product.description}</p>
                   <div className="flex items-center justify-between text-gray-800 mb-3">
                     <div className="flex items-center">
-                      <FaDollarSign className="text-yellow-500 mr-2" />
+                      <FaDollarSign className="text-gray-600 mr-2" />
                       <p className="font-semibold text-lg">${product.price}</p>
                     </div>
                     <div className="flex items-center">
-                      <FaStar className="text-yellow-500 mr-2" />
+                      <FaStar className="text-gray-600 mr-2" />
                       <p className="text-gray-800">{product.ratings}</p>
                     </div>
 
                   </div>
                   <div className="flex items-center justify-between">
                     
-                    <button className="px-4 py-2 bg-colorBlue text-white font-semibold rounded-lg shadow-md hover:bg-indigo-500 focus:outline-none">
+                    <button className="px-4 py-2 bg-colorBlue text-white font-semibold rounded-lg shadow-md hover:bg-blue-500 focus:outline-none">
                       Buy Now
                     </button>
                   </div>
@@ -147,7 +147,7 @@ const Home = () => {
             <button
               onClick={() => handlePageChange(currentPage - 1)}
               disabled={currentPage === 1}
-              className="px-2 sm:px-4 py-1 sm:py-2 mx-1 text-white bg-colorBlue rounded-lg hover:bg-indigo-500 disabled:bg-gray-400"
+              className="px-2 sm:px-4 py-1 sm:py-2 mx-1 text-white bg-colorBlue rounded-lg hover:bg-blue-500 disabled:bg-gray-400"
             >
               Previous
             </button>
@@ -159,7 +159,7 @@ const Home = () => {
                   currentPage === i + 1
                     ? "bg-colorBlue text-white"
                     : "bg-gray-300 text-gray-800"
-                } hover:bg-indigo-500 hover:text-white`}
+                } hover:bg-blue-500 hover:text-white`}
               >
                 {i + 1}
               </button>
@@ -167,7 +167,7 @@ const Home = () => {
             <button
               onClick={() => handlePageChange(currentPage + 1)}
               disabled={currentPage === totalPages}
-              className="px-2 sm:px-4 py-1 sm:py-2 mx-1 text-white bg-colorBlue rounded-lg hover:bg-indigo-500 disabled:bg-gray-400"
+              className="px-2 sm:px-4 py-1 sm:py-2 mx-1 text-white bg-colorBlue rounded-lg hover:bg-blue-500 disabled:bg-gray-400"
             >
               Next
             </button>
