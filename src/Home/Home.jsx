@@ -93,13 +93,13 @@ const Home = () => {
 
         {/* Products Display */}
         <div className="container mx-auto lg:w-4/5 p-4 sm:p-6">
-          <div className="container mx-auto mb-4 sm:mb-6">
+          <div className="container mx-auto mb-4 sm:mb-6 flex justify-end">
             <input
               type="text"
               placeholder="Search for products..."
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              className="p-2 sm:p-3 border-2 rounded-lg shadow-sm border-colorBlue focus:outline-none focus:ring focus:border-colorBlue"
+              className="p-2 sm:p-3 border-b-2 border-colorBlue  focus:outline-none "
             />
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-10">
@@ -126,12 +126,14 @@ const Home = () => {
                       <FaDollarSign className="text-yellow-500 mr-2" />
                       <p className="font-semibold text-lg">${product.price}</p>
                     </div>
-                  </div>
-                  <div className="flex items-center justify-between">
                     <div className="flex items-center">
                       <FaStar className="text-yellow-500 mr-2" />
-                      <p className="text-gray-800">{product.ratings} / 5</p>
+                      <p className="text-gray-800">{product.ratings}</p>
                     </div>
+
+                  </div>
+                  <div className="flex items-center justify-between">
+                    
                     <button className="px-4 py-2 bg-colorBlue text-white font-semibold rounded-lg shadow-md hover:bg-indigo-500 focus:outline-none">
                       Buy Now
                     </button>
